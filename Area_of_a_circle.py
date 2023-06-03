@@ -1,2 +1,1 @@
-a=int(input())
-print(a*a*3.14)
+print("%.2f"%(3.14*int(input())**2))
